@@ -1,0 +1,1 @@
+streamlit run "C:\Users\108cs\OneDrive\Desktop\mutiple\m.py"
